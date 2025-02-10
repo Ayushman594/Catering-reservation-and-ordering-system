@@ -1,1 +1,10 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:springgreen;
+}
+a{
+    text-decoration: none;
+}
